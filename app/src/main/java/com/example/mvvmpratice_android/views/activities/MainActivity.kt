@@ -1,7 +1,8 @@
-package com.example.mvvmpratice_android
+package com.example.mvvmpratice_android.views.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.mvvmpratice_android.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
